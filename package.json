@@ -53,6 +53,7 @@
     "url": "git://github.com/auth0/auth0.js"
   },
   "dependencies": {
+    "auth0-js": "^9.19.0",
     "base64-js": "^1.5.1",
     "idtoken-verifier": "^2.2.2",
     "js-cookie": "^2.2.0",
